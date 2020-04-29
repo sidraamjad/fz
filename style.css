@@ -1,0 +1,16 @@
+@media only screen (max-width:600px){
+
+.card bg-dark text-white{
+    max-width: 200px;
+}
+@media only screen (max-width:400px){
+
+    .card bg-dark text-white{
+        max-width: 100px;
+    }
+    .carousel-inner{
+
+width: 500px;
+
+
+    }
